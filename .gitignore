@@ -1,0 +1,15 @@
+# Build
+bin/
+obj/
+
+# User settings
+*.user
+*.suo
+
+# VS Code
+.vscode/
+.vs/
+
+# Publish / Temp
+wwwroot/
+.env
